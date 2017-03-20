@@ -17,7 +17,7 @@
     {
       "type": "table",
       "name": "inTable",
-      "tableName": "person",
+      "tableName": "persona",
       "connection": "AzureWebJobsStorage",
       "direction": "in"
     }
